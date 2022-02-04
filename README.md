@@ -1,7 +1,7 @@
 # Guia-Metodologica
 Guía metodológica para la restauración de paisaje (versión noviembre 2021)
 
-Para obtener el documento de laGuía metodológica para la implementación de 
+Para obtener el documento de la Guía metodológica para la implementación de 
 la línea base de servicios ecosistémicos y la generación de índices de aptitud 
 para prácticas de restauración de paisajes del Fondo de Desarrollo Verde para la región SICA
 Contactar a: 
